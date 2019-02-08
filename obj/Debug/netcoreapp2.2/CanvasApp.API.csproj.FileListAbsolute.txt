@@ -1,0 +1,14 @@
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\bin\Debug\netcoreapp2.2\CanvasApp.API.deps.json
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\bin\Debug\netcoreapp2.2\CanvasApp.API.runtimeconfig.json
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\bin\Debug\netcoreapp2.2\CanvasApp.API.runtimeconfig.dev.json
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\bin\Debug\netcoreapp2.2\CanvasApp.API.dll
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\bin\Debug\netcoreapp2.2\CanvasApp.API.pdb
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\obj\Debug\netcoreapp2.2\CanvasApp.API.csprojAssemblyReference.cache
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\obj\Debug\netcoreapp2.2\CanvasApp.API.csproj.CoreCompileInputs.cache
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\obj\Debug\netcoreapp2.2\CanvasApp.API.RazorAssemblyInfo.cache
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\obj\Debug\netcoreapp2.2\CanvasApp.API.RazorAssemblyInfo.cs
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\obj\Debug\netcoreapp2.2\CanvasApp.API.AssemblyInfoInputs.cache
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\obj\Debug\netcoreapp2.2\CanvasApp.API.AssemblyInfo.cs
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\obj\Debug\netcoreapp2.2\CanvasApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\obj\Debug\netcoreapp2.2\CanvasApp.API.dll
+C:\Users\e78213\vscodeprojects\CanvasAPI\CanvasApp.API\obj\Debug\netcoreapp2.2\CanvasApp.API.pdb
