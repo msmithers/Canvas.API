@@ -6,7 +6,7 @@ namespace CanvasApp.API.Data
 {
     public class Methods
     {
-                const string token = "9595~hpVWVTBD3bwHmWmwYFFPbO6AMngoLEoHsSx3DySHys4wedeciMKuARvd79YHWmUx";
+        const string token = "9595~hpVWVTBD3bwHmWmwYFFPbO6AMngoLEoHsSx3DySHys4wedeciMKuARvd79YHWmUx";
         const string apiAddress = "https://rmit.instructure.com:443/api/v1/";
 
         public static List<Course> GetCourses()
