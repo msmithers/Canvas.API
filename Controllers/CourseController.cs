@@ -15,16 +15,12 @@ namespace CanvasApp.API.Controllers
     public class CourseController : ControllerBase
     {
         [HttpGet]
-        public async Task<List<Course>> GetCourses()
+       public async Task<List<Course>> GetCourses()
         {
             var courses = CanvasApp.API.Data.Methods.GetCourses();
             return await Task.FromResult(courses.ToList());
         } 
         
-        
-        // public async Task<List<Course>> GetCourses(UserParams userParams)
-        // {
-        //     return await CanvasRepository.GetCourses(userParams);
-        // }
+    
     }
 }
